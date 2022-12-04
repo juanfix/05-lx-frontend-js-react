@@ -16,7 +16,7 @@ Para esta tarea debes hacer una calculadora con las siguientes operaciones:
 - Resta
 - Multiplicación
 - División
-- Raiz cuiadrada
+- Raiz cuadrada
 - Potencia al número que el usuario te diga
 - Residuo de una división
 - Borrar todos los datos de la calculadora
